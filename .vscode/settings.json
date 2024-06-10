@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "*.sql": "sql",
-        "x86.h": "c"
-    }
-}
